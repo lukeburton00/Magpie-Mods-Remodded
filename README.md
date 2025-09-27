@@ -2,6 +2,9 @@
 
 The original Magpie Mods textures unlimited configs were using deprecated shaders. Magpie Mods Remodded fixes the issue.
 
+
+![screenshot1](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot1.png)
+
 ---
 
 Check out the original readme below the screenshots for additional information.
@@ -12,6 +15,24 @@ Check out the original readme below the screenshots for additional information.
 
 - [Textures Unlimited](https://spacedock.info/mod/1841/Textures%20Unlimited%20Default%20Stock%20Config%20-%20Unofficial)
 
+## Recommendations
+- Deferred Rendering
+- Scatterer
+- Blackrack's Volumetric Clouds
+- Parallax Continued
+- Distant Objects Enhancement
+- PlanetShine
+- Restock
+- RestockPlus
+- Shabby
+- Real Plume
+- Waterfall
+- Waterfall - Restock
+- Restock Waterfall Expansion
+- RSMP
+- Firefly
+- TUFX
+- VaporCones
 ---
 
 ## Supported Mods / Configs
@@ -45,7 +66,7 @@ Reflection configs are included for:
 ---
 
 ## Pics
-![screenshot1](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot1.png)
+
 ![screenshot2](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot2.png)
 ![screenshot3](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot3.png)
 ![screenshot4](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot4.png)
