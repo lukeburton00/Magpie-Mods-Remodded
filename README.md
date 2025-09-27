@@ -4,7 +4,7 @@ The original Magpie Mods textures unlimited configs were using deprecated shader
 
 ---
 
-Check out the original readme below for additional information.
+Check out the original readme below the screenshots for additional information.
 
 ---
 
@@ -42,6 +42,12 @@ Reflection configs are included for:
 3. Start the game. The reflection configs will be applied automatically.
 
 ---
+
+## Pics
+![screenshot1](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot1.png)
+![screenshot2](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot2.png)
+![screenshot3](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot3.png)
+![screenshot4](https://github.com/lukeburton00/Magpie-Mods-Remodded/raw/main/images/screenshot4.png)
 
 ## Original Readme:
 
