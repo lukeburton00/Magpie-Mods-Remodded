@@ -38,8 +38,9 @@ Reflection configs are included for:
 ## Installation
 
 1. Make sure you have **Textures Unlimited** installed.
-2. Copy the `MagpieMods` folder into your `GameData` directory.
-3. Start the game. The reflection configs will be applied automatically.
+2. Grab the [latest release](https://github.com/lukeburton00/Magpie-Mods-Remodded/releases)
+3. Copy the `MagpieMods` folder into your `GameData` directory.
+4. Start the game. The reflection configs will be applied automatically.
 
 ---
 
